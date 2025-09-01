@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c83d927-2218-4fc8-b030-606b263a06dd" name="Changes" comment="Final Project Commit.">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Navigo Site.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/backend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/backendProject.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/backendRoadmap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/c++.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/communityImage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/cpp_page-0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/cyber-security_page-0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/cyberSecurity.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/data-analyst_page-0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/dataAnalyst.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/datastructures-and-algorithms_page-0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/download.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/dsa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/fbLogo.ac3b465e-4384-42a8-9142-901c0405e1bc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/fbLogo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/flower_1308-3867.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/fr1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/fr2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/frontEnd.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/frontendProject.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/frontendRoadmap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/full-stack_page-0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/fullStack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/fullStackRoadmap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/instaLogo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/java.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/java_page-0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/linkedInlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/python.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/python_page-0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/roadmapFrontend.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/roadmapFrontend.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assests/twitterLogo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aiGenerated.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checking.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/community.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/community.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/community.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyberSecurity.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyberSecurity.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataAnalytics.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataAnalytics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsaComm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontendProject.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fullStack.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fullStack.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homePage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homePage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homePageAfterLogin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signUpForm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signUpForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signUpForm.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2pfXe6EJ0rQffZ2bHFm3ZjdF0DP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/iamsu/Downloads/CODEMAP"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c83d927-2218-4fc8-b030-606b263a06dd" name="Changes" comment="" />
+      <created>1733158197014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733158197014</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final Project Commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Project Commit." />
+  </component>
+</project>
