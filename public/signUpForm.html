@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Login & Registration Form</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="signUpForm.css">
+  <link href="https://fonts.googleapis.com/css?family=Nunito:400,600,700,800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="cont">
+    <div class="form sign-in">
+      <h2>Log In</h2>
+      <form id="loginForm" novalidate>
+        <label>
+          <span>Email Address</span>
+          <input type="email" name="email" id="loginEmail" required>
+          <small class="error" id="loginEmailError"></small>
+        </label>
+        <label>
+          <span>Password</span>
+          <input type="password" name="password" id="loginPassword" required>
+          <small class="error" id="loginPasswordError"></small>
+        </label>
+        <button class="submit" type="submit" id="loginBtn">Login</button>
+      </form>
+
+      <div class="social-media">
+        <ul>
+          <li><img src="./Assests/fbLogo.ac3b465e-4384-42a8-9142-901c0405e1bc" alt="Facebook"></li>
+          <li><img src="./Assests/twitterLogo.jpg" alt="Twitter"></li>
+          <li><img src="./Assests/linkedInlogo.png" alt="LinkedIn"></li>
+          <li><img src="./Assests/instaLogo.webp" alt="Instagram"></li>
+        </ul>
+      </div>
+    </div>
+
+    
+    <div class="sub-cont">
+      <div class="img">
+        <div class="img-text m-up">
+          <h1>New here?</h1>
+          <p>Sign up and choose your path</p>
+        </div>
+        <div class="img-text m-in">
+          <h1>One of us?</h1>
+          <p>Just log in</p>
+        </div>
+        <div class="img-btn">
+          <span class="m-up">Sign Up</span>
+          <span class="m-in">Sign In</span>
+        </div>
+      </div>
+
+      <!-- SIGN UP FORM -->
+      <div class="form sign-up">
+        <h2>Sign Up</h2>
+        <form id="signUpForm" novalidate>
+          <label>
+            <span>Name</span>
+            <input type="text" name="userName" id="signUpName" required>
+            <small class="error" id="signUpNameError"></small>
+          </label>
+          <label>
+            <span>Email</span>
+            <input type="email" name="email" id="signUpEmail" required>
+            <small class="error" id="signUpEmailError"></small>
+          </label>
+          <label>
+            <span>Password</span>
+            <input type="password" name="password" id="signUpPassword" required>
+            <small class="error" id="signUpPasswordError"></small>
+          </label>
+          <label>
+            <span>Confirm Password</span>
+            <input type="password" name="confirmPassword" id="signUpConfirmPassword" required>
+            <small class="error" id="signUpConfirmPasswordError"></small>
+          </label>
+
+          <button type="submit" class="submit" id="signUpBtn">Sign Up Now</button>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <script src="signUpForm.js" defer></script>
+</body>
+</html>

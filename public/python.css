@@ -1,0 +1,198 @@
+.darkestTheme{
+    background-color: #27374D;
+}
+
+.darkerTheme{
+    background-color: #526D82;
+}
+
+.lightTheme{
+    background-color: #526D82;
+}
+
+.lighterTheme{
+    background-color: #526D82;
+}
+
+.gradientColor{
+    background-image: linear-gradient(to right,rgb(33 37 41) , #2E073F);
+}
+
+.paddingSelf{
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+}
+
+.textColorSelf{
+    color: #FFF4B7;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+h5{
+    color: white;
+}
+
+.para{
+    color: white;
+}
+
+header{
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+.frColor{
+    background-image: linear-gradient(#D8D9DA, #FFF6E0);
+}
+
+.widthHun{
+    width: 100%;
+}
+
+ul{
+    list-style-type: disc;
+}
+
+ol{
+    font-weight: bold;
+}
+
+/* Dropdown container styling */
+.dropdown-container ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* Dropdown items styling */
+.dropdown-item {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    background-color: #27374D;
+    border-radius: 5px;
+    color: white;
+}
+
+.dropdown-item span {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    display: block;
+    cursor: pointer;
+}
+
+/* Content that will be toggled */
+.dropdown-content {
+    display: none; /* Hidden by default */
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+    background-color: #526D82;
+    border-radius: 5px;
+    color: #FFF4B7;
+}
+
+/* Add some hover and focus effects */
+.dropdown-item:hover {
+    background-color: #526D82;
+}
+
+/* .accordion-body {
+    position: relative;
+    white-space: pre-wrap;
+} */
+
+.accordion-body::after {
+    content: '|';
+    position: absolute;
+    right: 0;
+    animation: blink 1s infinite;
+}
+
+@keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+.accBgColor{
+    background-image: linear-gradient(to right,#d3e5cd, #b1c0ae);
+}
+
+.bgColor{
+    background-image: linear-gradient(#fff, #d3efc9);
+}
+
+.resources-section {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .resources-section h4 {
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    font-size: 1.2em;
+  }
+  
+  .resources-section ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .resources-section ul li {
+    margin-bottom: 10px;
+  }
+  
+  .resources-section ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .resources-section ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  .label {
+    display: inline-block;
+    padding: 4px 8px;
+    border-radius: 12px;
+    margin-right: 10px;
+    font-size: 0.85em;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .article {
+    background-color: #ffcc00;
+  }
+  
+  .video {
+    background-color: #9933ff;
+  }
+  
+  .feed {
+    background-color: #00cc66;
+  }
+  
+  .course {
+    background-color: #ff9900;
+  }
+  
+  .free-resources h4 {
+    color: #00cc66;
+  }
+  
+  .premium-resources h4 {
+    color: #9933ff;
+  }
+
+  .officialSite{
+    background-color: black;
+  }
+  

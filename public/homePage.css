@@ -1,0 +1,152 @@
+.darkestTheme{
+    background-color: #27374D;
+}
+
+.darkerTheme{
+    background-color: #526D82;
+}
+
+.lightTheme{
+    background-color: #526D82;
+}
+
+.lighterTheme{
+    background-color: #526D82;
+}
+
+.gradientColor{
+    background-image: linear-gradient(to right,rgb(33 37 41) , #2E073F);
+}
+
+.paddingSelf{
+    padding-top: 1rem !important;
+    padding-bottom: 2rem !important;
+}
+
+.textColorSelf{
+    color: #FFF4B7;
+}
+
+.paddingBelow{
+    margin-bottom: 2rem;
+}
+
+.roadmap img{
+    height: 150px;
+}
+
+.roadmap a{
+    margin-left: 120px;
+}
+
+.paddingLeft{
+    padding-left: 100px;
+}
+
+h2{
+    
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(90deg, #CB9DF0, #FDDBBB); /* Purple gradient */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-bottom: 1rem;
+}
+
+/* .project img{
+    height: 100%;
+} */
+
+.paadingRight{
+    padding-right: 100px;
+}
+
+h5{
+    color: white;
+}
+
+.para{
+    color: white;
+}
+
+header{
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900 */
+
+.noto-serif{
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+h1{
+    font-size: 48px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(90deg, #CB9DF0, #FDDBBB); /* Purple gradient */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.dropdown-container ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* Dropdown items styling */
+.dropdown-item {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    background-color: #27374D;
+    border-radius: 5px;
+    color: white;
+}
+
+/* Content that will be toggled */
+.dropdown-content {
+    display: none; /* Hidden by default */
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+    background-color: #526D82;
+    border-radius: 5px;
+    color: #FFF4B7;
+}
+
+/* Add some hover and focus effects */
+.dropdown-item:hover {
+    background-color: #7bb3de;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.card:hover {
+    transform: scale(1.05); /* Slightly enlarges the card */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Adds a shadow for a lifted effect */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition */
+}
+
+.paddingTop{
+    padding-top: 2rem;
+}
+
+.card-body{
+    background-color: whitesmoke;
+}
+
+  
+
+/* .cardHeight{
+    height: 100%;
+} */
